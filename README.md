@@ -1,4 +1,4 @@
-# Exploratory Data Analysis (EDA) of ["BigBasket Entire Product List"](https://www.kaggle.com/datasets/surajjha101/bigbasket-entire-product-list-28k-datapoints/data)
+# Exploratory Data Analysis (EDA) of ["BigBasket Entire Product List"](https://www.kaggle.com/datasets/surajjha101/bigbasket-entire-product-list-28k-datapoints/data) 🔎
 
 ## Description:
 This project thoroughly examines the `BigBasket Products.csv` dataset obtained from Kaggle through an Exploratory Data Analysis (EDA). The main goal is to fully understand the data's features, discover possible connections between different factors, and pinpoint any unusual data points that might need more exploration.
@@ -30,5 +30,5 @@ Identified relationships between variables, if any, are showcased through visual
 
 Outliers, if present, are investigated and removed from dataset.
 
-## Technologies ⚙️:
+## Technologies:
 Jupyter Notebook, Python - Pandas, NumPy, Matplotlib, Seaborn 
